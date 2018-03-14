@@ -1,2 +1,2 @@
-# progcont
-Progcont Algorithms
+# progcont solutions and C algorithms
+[Progcont page](https://progcont.hu/progcont/)
